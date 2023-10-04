@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28555802913",
+    "project_id": "sewing-5f394",
+    "storage_bucket": "buckets/sewing-5f394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28555802913:android:8dee94b0f600283a982660",
+        "android_client_info": {
+          "package_name": "com.inihood.tailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28555802913-4fuldvg322norgm070vpe3q75sodl26i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inihood.tailor",
+            "certificate_hash": "3c9b5aeb77bfce52b66a11a3848f93d14e42bf3a"
+          }
+        },
+        {
+          "client_id": "28555802913-g5cdrddqskio1ps1vr0ug2ba1vv81rp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOrTcyqtzyUBIQxWvL7a4Wt6hnC7574c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28555802913-d8j5ac404ittuu6b49jt1t2imlgh15d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
